@@ -1,0 +1,42 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+h1{
+    text-align: center;
+    margin-left: 200px;
+    
+}
+
+.footer{
+    display:flex ;
+    justify-content: flex-end;
+}
+
+.principal{
+    border:solid;
+}
+
+.school{
+    border: solid;
+}
+
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:blue;
+}
+
+.white{
+    text-align: right;
+}
+
+.class{
+    margin-left:90px;
+}
+
